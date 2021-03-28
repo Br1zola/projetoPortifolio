@@ -9,4 +9,3 @@ o controle das tarefas desse projeto sera realizado no github
 :up:              autalização
 :beatle:          correção de bug
 :checkered_flag:  release
-dasdasd
